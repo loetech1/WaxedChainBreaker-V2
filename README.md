@@ -6,7 +6,7 @@ A work-in-progress 3D design project, shared for the community to download, modi
 
 ## Project status
 
-This design is unfinished. The files are an initial development snapshot; assembly instructions, print settings and a bill of materials have not yet been documented or validated.
+This design is unfinished. The files are an initial development snapshot; assembly instructions, print settings and a complete bill of materials have not yet been documented or validated.
 
 ## Files
 
@@ -17,6 +17,14 @@ This design is unfinished. The files are an initial development snapshot; assemb
 - **prototype.mp4** — project video ([download/view](prototype.mp4)).
 
 Use **Code → Download ZIP** to download the complete project, or open an individual file to download it.
+
+## Motors / parts list
+
+| Part | Specification | Quantity |
+| --- | --- | --- |
+| Worm-geared DC motor | **5840-31ZY**, **24 V DC**, **80 RPM** selected variant; AliExpress product title begins "5840-31ZY Turbo Worm Encoder" | 2 purchased for the project |
+
+Use the **24 V, 80 RPM** variant when sourcing this motor. These details were checked against the original purchase confirmation. The full product title is truncated in that confirmation; shaft dimensions, mounting dimensions, torque, gear ratio and encoder specifications remain to be confirmed. Check those details against the CAD and actual motors before ordering a replacement. The remainder of the bill of materials is still being documented.
 
 ## Contributing
 
